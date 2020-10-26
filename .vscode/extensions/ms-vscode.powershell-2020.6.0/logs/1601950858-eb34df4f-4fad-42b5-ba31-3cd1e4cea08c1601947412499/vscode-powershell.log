@@ -1,0 +1,18 @@
+10/6/2020 3:20:58 AM [NORMAL] - Language server starting --
+10/6/2020 3:20:58 AM [NORMAL] -     PowerShell executable: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
+10/6/2020 3:20:58 AM [NORMAL] -     PowerShell args: -NoProfile -NonInteractive -ExecutionPolicy Bypass -Command Import-Module 'c:\Users\sneez\.vscode\extensions\ms-vscode.powershell-2020.6.0\modules\PowerShellEditorServices\PowerShellEditorServices.psd1'; Start-EditorServices -HostName 'Visual Studio Code Host' -HostProfileId 'Microsoft.VSCode' -HostVersion '2020.6.0' -AdditionalModules @('PowerShellEditorServices.VSCode') -BundledModulesPath 'c:\Users\sneez\.vscode\extensions\ms-vscode.powershell-2020.6.0\modules' -EnableConsoleRepl -StartupBanner "=====> PowerShell Integrated Console v2020.6.0 <=====
+" -LogLevel 'Normal' -LogPath 'c:\Users\sneez\.vscode\extensions\ms-vscode.powershell-2020.6.0\logs\1601950858-eb34df4f-4fad-42b5-ba31-3cd1e4cea08c1601947412499\EditorServices.log' -SessionDetailsPath 'c:\Users\sneez\.vscode\extensions\ms-vscode.powershell-2020.6.0\sessions\PSES-VSCode-60676-263423' -FeatureFlags @() 
+10/6/2020 3:20:58 AM [NORMAL] -     PowerShell Editor Services args: Import-Module 'c:\Users\sneez\.vscode\extensions\ms-vscode.powershell-2020.6.0\modules\PowerShellEditorServices\PowerShellEditorServices.psd1'; Start-EditorServices -HostName 'Visual Studio Code Host' -HostProfileId 'Microsoft.VSCode' -HostVersion '2020.6.0' -AdditionalModules @('PowerShellEditorServices.VSCode') -BundledModulesPath 'c:\Users\sneez\.vscode\extensions\ms-vscode.powershell-2020.6.0\modules' -EnableConsoleRepl -StartupBanner "=====> PowerShell Integrated Console v2020.6.0 <=====
+" -LogLevel 'Normal' -LogPath 'c:\Users\sneez\.vscode\extensions\ms-vscode.powershell-2020.6.0\logs\1601950858-eb34df4f-4fad-42b5-ba31-3cd1e4cea08c1601947412499\EditorServices.log' -SessionDetailsPath 'c:\Users\sneez\.vscode\extensions\ms-vscode.powershell-2020.6.0\sessions\PSES-VSCode-60676-263423' -FeatureFlags @() 
+10/6/2020 3:20:58 AM [NORMAL] - powershell.exe started.
+10/6/2020 3:20:58 AM [NORMAL] - Waiting for session file
+10/6/2020 3:21:00 AM [NORMAL] - Session file found
+10/6/2020 3:21:00 AM [NORMAL] - Registering terminal close callback
+10/6/2020 3:21:00 AM [NORMAL] - Registering terminal PID log callback
+10/6/2020 3:21:00 AM [NORMAL] - {"status":"started","languageServiceTransport":"NamedPipe","languageServicePipeName":"\\\\.\\pipe\\PSES_dpqmm4zi.ci4","debugServiceTransport":"NamedPipe","debugServicePipeName":"\\\\.\\pipe\\PSES_qxukkgtq.341"}
+10/6/2020 3:21:00 AM [NORMAL] - Language server started.
+10/6/2020 3:21:00 AM [NORMAL] - powershell.exe PID: 64056
+10/6/2020 3:21:00 AM [NORMAL] - Connecting to language service on pipe \\.\pipe\PSES_dpqmm4zi.ci4...
+10/6/2020 3:21:00 AM [NORMAL] - Language service connected.
+10/6/2020 3:21:04 AM [WARNING] - Invalid Version: null
+10/6/2020 3:45:19 AM [NORMAL] - powershell.exe terminated or terminal UI was closed
